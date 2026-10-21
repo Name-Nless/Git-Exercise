@@ -29,14 +29,14 @@ Email: 6970122421@student.chula.ac.th
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote](Picture/Quote.png)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![GitGif](Animation/GITGIF.gif) 
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+Revision control give us the confidence to move forward, because we can always trace our changes and return to what we worked.
 
 🎬 5. Video Lecture
